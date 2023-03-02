@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pwa-experiment/static/css/main.321ca5ac.css",
+    "main.js": "/pwa-experiment/static/js/main.5a921ee7.js",
+    "static/media/ContactImage.jpg": "/pwa-experiment/static/media/ContactImage.ef63e66a4471ff653c09.jpg",
+    "static/media/vegetables.png": "/pwa-experiment/static/media/vegetables.f571788fcffc10f2a3a1.png",
+    "static/media/ServiceHero.jpg": "/pwa-experiment/static/media/ServiceHero.6a22f5ec417371ee5f9f.jpg",
+    "static/media/ServiceImage.jpg": "/pwa-experiment/static/media/ServiceImage.f4f39ff6e7639ff3cb5d.jpg",
+    "static/media/slider-img-3.jpeg": "/pwa-experiment/static/media/slider-img-3.52eb23b9c3b0b87be433.jpeg",
+    "static/media/slider-img-4.jpeg": "/pwa-experiment/static/media/slider-img-4.f555f052b4c671bb7bc8.jpeg",
+    "static/media/slider-img-1.jpeg": "/pwa-experiment/static/media/slider-img-1.ddf2be22b74f8bf97522.jpeg",
+    "static/media/slider-img-2.jpeg": "/pwa-experiment/static/media/slider-img-2.4682c04ba6d3702b9593.jpeg",
+    "static/media/ProfilePicture.jpg": "/pwa-experiment/static/media/ProfilePicture.7049b86366e39c185992.jpg",
+    "static/media/Order-Man.png": "/pwa-experiment/static/media/Order-Man.e248d08e20875713a7cd.png",
+    "static/media/twitter.png": "/pwa-experiment/static/media/twitter.8e65601e69067aadfe55.png",
+    "index.html": "/pwa-experiment/index.html",
+    "main.321ca5ac.css.map": "/pwa-experiment/static/css/main.321ca5ac.css.map",
+    "main.5a921ee7.js.map": "/pwa-experiment/static/js/main.5a921ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321ca5ac.css",
+    "static/js/main.5a921ee7.js"
+  ]
+}
